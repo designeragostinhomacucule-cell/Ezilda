@@ -1,19 +1,10 @@
-TRABALHO ESCOLAR — VIOLÊNCIA FÍSICA E VERBAL ENTRE ALUNOS
+PÁGINA WEB — VIOLÊNCIA FÍSICA E VERBAL ENTRE ALUNOS
+
+Para abrir:
+1. Extraia o ficheiro ZIP.
+2. Abra o ficheiro index.html num navegador (Chrome, Firefox, Edge, etc.).
+3. A página funciona como um único ficheiro HTML e não precisa de instalação.
 
 Aluna: Ezilda Francisco Macamo
 Turma: A01
 Docente: Lázaro Aurélio Conjo
-
-CONTEÚDO DO PACOTE
-1. index.html — versão digital com design responsivo e índice navegável.
-2. Trabalho_Completo_Ezilda_Francisco_Macamo_A01.docx — versão editável em Word.
-3. Trabalho_Completo_Ezilda_Francisco_Macamo_A01.pdf — versão pronta para leitura e impressão.
-
-COMO UTILIZAR
-- Para abrir a versão digital, extraia o ZIP e abra index.html no navegador.
-- Para alterar o texto, abra o ficheiro DOCX no Microsoft Word ou numa aplicação compatível.
-- Para imprimir ou partilhar, utilize o PDF.
-
-NOTA
-O trabalho é uma revisão bibliográfica e descritiva. Não contém dados de inquéritos feitos na Turma A01.
-As estatísticas globais e recomendações institucionais não devem ser interpretadas como dados específicos de Moçambique.
